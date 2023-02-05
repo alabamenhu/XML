@@ -1,7 +1,8 @@
 {
-  "auth": "zef:raku-community-modules",
+  "auth": "zef:guifa",
   "authors": [
-    "Timothy Totten"
+    "Timothy Totten",
+    "Matthew Stephen Stuckwisch"
   ],
   "build-depends": [
   ],
@@ -32,6 +33,7 @@
     "xml"
   ],
   "test-depends": [
+    "Test"
   ],
-  "version": "0.3.3"
+  "version": "0.3.4"
 }
