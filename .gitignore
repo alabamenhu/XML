@@ -3,3 +3,5 @@
 .precomp
 Makefile
 blib/
+*.iml
+.idea
